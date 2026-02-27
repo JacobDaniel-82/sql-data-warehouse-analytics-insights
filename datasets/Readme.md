@@ -1,0 +1,1 @@
+### This Folder consists of datasets that are used in this analytics. But it is recomended to check the original source from my data warehouse projetc [SQL-DataWare-House](https://github.com/JacobDaniel-82/sql-data-warehouse-project)
